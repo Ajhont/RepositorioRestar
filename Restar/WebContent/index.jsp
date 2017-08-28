@@ -10,11 +10,11 @@
 <form method="POST" action="./indexServlet" >
 	<table border="0">
 		<tr>
-			<td>Primer número:</td>
+			<td>Primer número :</td>
 			<td><INPUT name="param1"></td>
 		</tr>
 		<tr>
-			<td>Segundo número:</td>
+			<td>Segundo número :</td>
 			<td><INPUT name="param2"></td>
 		</tr>
 		<tr>
